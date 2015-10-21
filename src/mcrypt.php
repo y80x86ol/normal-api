@@ -10,9 +10,9 @@
  * @author Ken <695093513@qq.com>
  */
 
-namespace normalApi\mcrypt;
+namespace normalApi;
 
-class mcryptModel {
+class mcrypt {
 
     /**
      * 加密
